@@ -14,7 +14,7 @@
   }
   
   .titleQuiz{
-  
+    
     text-align: center;
     color: black;
     padding: 15px;
@@ -22,6 +22,7 @@
   }
 
   .titleQuestion{
+    font-size: 22px;
     text-align: center;
     margin-top: 25px;
     margin-bottom: 50px;
@@ -36,7 +37,8 @@
   }
   
   .questions-Container{
-    width: 70%;
+    padding: 10px 20px;
+    width: 85%;
     text-align: center;
     background-color: rgb(230, 235, 235);
     border: 1px blue solid;
@@ -73,6 +75,7 @@
   }
   
 .nextQuestion{
+    margin-top: 90px;
     background-color: rgb(35, 25, 184);
     color: white;
     transition: .3s;
@@ -100,10 +103,6 @@
   font-size: 18px;
   color: white;
 
-}
-
-.number-Question{
-  display: inline-block
 }
 
 

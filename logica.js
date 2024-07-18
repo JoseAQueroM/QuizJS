@@ -48,7 +48,7 @@ let showQuestions = () => {
                 <button id="next" class="btn nextQuestion col-md-4 col-12 mt-3">Siguiente</button>
 
                
-                    <h3 class="mt-3"> <span id="counter">1</span><span>/5</span> </h3>
+                    <h3 class="mt-2"> <span id="counter">1</span><span>/5</span> </h3>
                     <h5 id="score"></h5>
 
             </div>
